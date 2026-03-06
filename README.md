@@ -1,6 +1,4 @@
 # mi-primer-repo
 Mi primer repo
 
-Repositorio de prácticas de Git y Github
-
-Nueva línea
+Soy estudiante en prácticas de ASIR
